@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Keegan</h1>
-<h3 align="center">A passionate frontend developer from San Francisco</h3>
 
 <p align="left"> <a href="https://twitter.com/webisbae" target="blank"><img src="https://img.shields.io/twitter/follow/webisbae?logo=twitter&style=for-the-badge" alt="webisbae" /></a> </p>
 
